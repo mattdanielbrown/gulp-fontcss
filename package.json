@@ -1,0 +1,24 @@
+{
+  "name": "gulp-fontcss",
+  "version": "0.0.1",
+  "description": "A gulp tool that transforms font files into css files with base64 data to speed up loading times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "gulpplugin web-development font fonts css converter"
+  ],
+  "author": {
+    "name": "Jan Hünermann",
+    "url": "janhuenermann.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gutil": "^1.6.4",
+    "through2": "^2.0.3"
+  }
+}
