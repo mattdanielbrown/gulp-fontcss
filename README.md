@@ -1,6 +1,6 @@
 # gulp-fontcss
 
-This gulp plugin makes it easy for you to transform font files into css files. Css embedded fonts have the advantage, that they serve all fonts in one request rather than splitting things up in multiple requestes, resulting in faster load speeds. In addition, they can be cached and targeted. Read ![this guide](https://www.filamentgroup.com/lab/font-loading.html) for more information.
+This gulp plugin makes it easy for you to transform font files into css files. Css embedded fonts have the advantage, that they serve all fonts in one request rather than splitting things up in multiple requestes, resulting in faster load speeds. In addition, they can be cached and targeted. Read [this guide](https://www.filamentgroup.com/lab/font-loading.html) for more information.
 
 The fonts are embedded into css files via data uris and base64 encoding.
 
@@ -48,9 +48,9 @@ Try for yourself!
 
 ### Tips and tricks
 
-1. Use the ![FontSquirrel WebFont generator](https://www.fontsquirrel.com/tools/webfont-generator), because it will exactly match the formats that gulp-fontcss supports!
+1. Use the [FontSquirrel WebFont generator](https://www.fontsquirrel.com/tools/webfont-generator), because it will exactly match the formats that gulp-fontcss supports!
 2. Use a css minifier (such as gulp-clean-css) after gulp-fontcss!
-3. On your website, load only the browser-specific font-format (![as described here, a very good guide](https://www.filamentgroup.com/lab/font-loading.html))
+3. On your website, load only the browser-specific font-format ([as described here, a very good guide](https://www.filamentgroup.com/lab/font-loading.html))
 
 ### Options
 
