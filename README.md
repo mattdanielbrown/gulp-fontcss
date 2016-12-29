@@ -5,7 +5,7 @@ This gulp plugin makes it easy for you to transform font files into css files. C
 The fonts are embedded into css files via data uris and base64 encoding.
 
 ## Installation
-```bash
+```shell
 npm install --save-dev gulp-fontcss
 ```
 
