@@ -1,6 +1,6 @@
 {
   "name": "gulp-fontcss",
-  "version": "0.0.1",
+  "version": "0.0.1b",
   "description": "A gulp tool that transforms font files into css files with base64 data to speed up loading times.",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,13 @@
   ],
   "author": {
     "name": "Jan Hünermann",
-    "url": "janhuenermann.com"
+    "url": "http://janhuenermann.com/"
   },
   "license": "MIT",
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/janhuenermann/gulp-fontcss.git"
+  },
   "devDependencies": {
     "gulp": "^3.9.1"
   },
