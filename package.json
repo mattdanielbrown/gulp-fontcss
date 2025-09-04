@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "gutil": "^1.6.4",
-    "through2": "^2.0.3"
+    "through2": "^4.0.2"
   }
 }
