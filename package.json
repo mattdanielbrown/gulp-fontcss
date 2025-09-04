@@ -19,7 +19,7 @@
     "url" : "https://github.com/janhuenermann/gulp-fontcss.git"
   },
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^5.0.1"
   },
   "dependencies": {
     "gutil": "^1.6.4",
